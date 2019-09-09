@@ -48,7 +48,7 @@ help(package = "base")
 `max(x)`                         |  求`x`中元素的最大值
 `min(x)`                         |  求`x`中元素的最小值
 `sum(x)`                         |  求`x`中的元素之和，如`sum(1:5)`返回值为`15`
-`prod(x)`                        |  求`x`中元素的乘积（product意为乘积），如`prod(3, 4, 5)`返回值为`60`
+`prod(x)`                        |  求`x`中元素的乘积（product意为乘积），如`prod(3, 4, 5)`返回值为`60` 商为quotient
 `factorial()`                    |  求阶乘（factorial），如`factorial(10)`返回值为`3628800`
 `diff(x)`                        |  求`x`中相邻元素之差
 `pmax(x, y)`                     |  求`x`，`y`在相应位置上元素的较大值
